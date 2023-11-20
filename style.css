@@ -50,9 +50,9 @@ text-align: center;
 }
 @media screen and (max-width:400px)  {
     .box{
-        margin: 11px;
-        width: 18vw;
-        height: 12vh;
+        margin: 3px;
+        width: 22vw;
+        height: 9vh;
     }
     .counter{
         margin-top: 3rem;
